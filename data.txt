@@ -1,2 +1,2 @@
 username=zhangsan
-password=666666
+password=123456
